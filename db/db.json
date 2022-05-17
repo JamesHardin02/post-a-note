@@ -1,6 +1,28 @@
-[
-  {
-    "title":"Test Title",
-    "text":"Test text"
-  }
-]
+{
+  "notes": [
+    {
+      "title": "Test Title",
+      "text": "test text"
+    },
+    {
+      "title": "sadg",
+      "text": "sdvg",
+      "id": "1"
+    },
+    {
+      "title": "new",
+      "text": "new",
+      "id": "2"
+    },
+    {
+      "title": "sger",
+      "text": "sdgregh",
+      "id": "3"
+    },
+    {
+      "title": "sadv",
+      "text": "sdv",
+      "id": "4"
+    }
+  ]
+}
